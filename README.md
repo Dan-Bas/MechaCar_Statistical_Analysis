@@ -37,3 +37,11 @@ When the data is shown by lot, the story is different. The lots 1 and 2 meet the
 
 ![Pic7](Resources/Lot3.png)
 
+## Study Design: MechaCar vs Competition
+
+The statistical study that MechaCap performs against the competition will be based on electric cars' fuel efficiency versus the total cost of vehicles.
+The metrics that will be tested are MPG in an electric car, MPG on a gas car, the cost of an electric car, and the cost of a gas car.  
+The statistical test that will be used to test the hypothesis is the Two-Sample t-Test. Since the study needs to compare two samples (electric cars and gas cars) from a different population, it is the appropriate test to determine if there is a statistical difference in the fuel efficiency and cost between electric cars and gas cars.   
+The data needed to run the test is the price of electric vehicles, the gas cars' price, the MPG of electric vehicles, and the MPG of the gas cars. In addition to the data described, it can be useful to see the make and the cars' year. 
+The null hypothesis is that the electric car is more convenient than the gas car to focus the business model on that type of vehicle to bite the competition. 
+
